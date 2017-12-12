@@ -2,10 +2,10 @@
   "name": "todoapp",
   "version": "0.1.0",
   "description": "Testing out AngularJS in a simple to-do app",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
-    "angular": "1.6.7"
+    "angular": "1.6.7",
+    "express": "^4.16.2"
   },
   "repository": {
     "type": "git",
