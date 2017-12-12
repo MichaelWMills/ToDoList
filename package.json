@@ -1,0 +1,16 @@
+{
+  "name": "todoapp",
+  "version": "0.1.0",
+  "description": "Testing out AngularJS in a simple to-do app",
+  "scripts": {
+  },
+  "dependencies": {
+    "angular": "1.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelWMills/ToDoList"
+  },
+  "author": "Michael Mills",
+  "license": "UNLICENSED"
+}
